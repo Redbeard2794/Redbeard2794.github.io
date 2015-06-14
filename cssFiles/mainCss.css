@@ -1,29 +1,7 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @Redbeard2794
-
-1
-0
-
-    0
-
-Redbeard2794/Using-smoothCamera-to-make-a-side-scrolling-game-learning-resource-code
-
-Using-smoothCamera-to-make-a-side-scrolling-game-learning-resource-code/css files/LearningResource.css
-@Redbeard2794 Redbeard2794 on 24 Feb Video and html files
-
-1 contributor
-53 lines (51 sloc) 0.773 kB
 body {
     font-family:    Verdana, Geneva, Arial, sans-serif;
     font-size:      medium;
-    background-color: #4B0082;
+    background-color: #000000;
 }
 h1 {
     font-weight: bold;
@@ -36,7 +14,7 @@ h2 {
     font-size:   150%;
 }
 p {
-    color:  #C0C0C0;
+    color:  #00008B;
 }
 li {
     color:  #7FFF00;
@@ -73,8 +51,3 @@ input[type=submit] {
 select {
     font-size:  125%;
 }
-
-    Status API Training Shop Blog About Help 
-
-    © 2015 GitHub, Inc. Terms Privacy Security Contact 
-
