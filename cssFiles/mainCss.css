@@ -30,11 +30,11 @@ li {
 
 a:link, a:visited {
     display: block;
-    width: 120px;
-    height: 60px;
+    width: 240px;
+    height: 30px;
     font-weight: bold;
     color: #FFFFFF;
-    background-color: #98bf21;
+    background-color: #0000CD;
     text-align: center;
     padding: 4px;
     text-decoration: none;
@@ -42,7 +42,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    background-color: #7A991A;
+    background-color: #1E90FF;
 }
 
 H6 {
