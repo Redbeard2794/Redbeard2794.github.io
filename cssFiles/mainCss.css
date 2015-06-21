@@ -3,36 +3,58 @@ body {
     font-size:      medium;
     background-color: #000000;
 }
+
 h1 {
     font-weight: bold;
     color:       #00FA9A;
     text-decoration: underline;
 }
+
 h2 {
     font-weight: bold;
     color:       #00FA9A;
     font-size:   150%;
 }
+
 p {
     color:  #00008B;
 }
+
 li {
+    float: left;
     color:  #7FFF00;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-a {
-    color:  #00FA9A;
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    height: 60px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
+
+a:hover, a:active {
+    background-color: #7A991A;
+}
+
 H6 {
     font-weight: bold;
     color:  #00FA9A;
 }
+
 H4 {
     color:  #9400D3;
     text-decoration: underline;
 }
-li {
-    color:;
-}
+
 textarea {
     border: 3px solid #00FA9A;
 	width: 550px;
